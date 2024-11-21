@@ -15,7 +15,11 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@auth0/auth0-vue": "^2.3.3",
+    "@stripe/stripe-js": "^5.2.0",
+    "axios": "^1.7.7",
     "pinia": "^2.1.7",
+    "vt-webapp": "file:",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
